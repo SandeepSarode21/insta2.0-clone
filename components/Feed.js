@@ -1,5 +1,5 @@
 import React from "react";
-import Post from "./Post.js";
+import Posts from "./Posts.js";
 import Stories from "./Stories.js";
 
 function Feed() {
@@ -10,7 +10,7 @@ function Feed() {
         {/* Stories */}
         <Stories />
         {/* post */}
-        <Post />
+        <Posts />
       </section>
 
       {/* Section */}
