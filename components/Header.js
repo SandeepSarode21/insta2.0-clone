@@ -22,7 +22,7 @@ function Header() {
             objectFit="contain"
           />
         </div>
-        <div className="relative lg:hidden h-10 w-10 flex-shrink-0 cursor-pointer">
+        <div className="relative lg:hidden h-10 w-10 flex-shrink-0 cursor-pointer mt-4">
           <Image
             src="https://links.papareact.com/jjm"
             layout="fill"
